@@ -6,6 +6,10 @@ from pathlib import Path
 from datetime import datetime
 from dotenv import load_dotenv
 
+# 실행 명령
+# pip install streamlit
+# streamlit run app_web.py
+
 # 프로젝트 루트 경로 추가
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 

@@ -5,6 +5,9 @@ LangGraph를 활용한 멀티에이전트 리서치 시스템
 사용법:
     python app.py "연구 주제"
     python app.py "AI 기술 트렌드" --output report.md
+    실행 명령
+    pip install streamlit
+    streamlit run app_web.py
 """
 
 import sys
